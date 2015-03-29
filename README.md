@@ -15,7 +15,7 @@ In order to make it work follow the steps:
 4. If you are in Chrome press `ctrl + shift + j` and paste the contents of the `fetch_urls_and_names.js`
 into the console. If you are using Firefox got to `Developer > Debugger` and then `Console` in the opened window. It can warn you when you try to paste that you have to first type in the console `allow pasting`.
 
-5. You should see outputs with links and with names. Copy both outputs in respective files:
+5. You should see outputs in your console with links and with names. Copy both outputs in respective files in repository. Just delete what exists already in the files and put you result there.:
 `resources_links.txt` and `resources_names.txt`.
 
 6. While being in the repository directory run `python get_resources_files.py`.
