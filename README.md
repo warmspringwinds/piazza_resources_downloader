@@ -13,9 +13,16 @@ In order to make it work follow the steps:
 3. Go to piazza resources page where all the resources can be dowloaded.
 
 4. If you are in Chrome press `ctrl + shift + j` and paste the contents of the `fetch_urls_and_names.js`
-into the console.
+into the console. If you are using Firefox got to `Developer > Debugger` and then `Console` in the opened window. It can warn you when you try to paste that you have to first type in the console `allow pasting`.
 
 5. You should see outputs with links and with names. Copy both outputs in respective files:
 `resources_links.txt` and `resources_names.txt`.
 
 6. While being in the repository directory run `python get_resources_files.py`.
+
+## Shorter way
+
+I have already extracted all the links and filenames for Machine Learning course in Tum.
+So in order to download it just do steps `1, 2, 6` from the aforementioned guide.
+
+Or you can just download the archived [zip](https://drive.google.com/file/d/0B_6oHpf9oDHRY2c4U19FRnFRSEk/view?usp=sharing)
