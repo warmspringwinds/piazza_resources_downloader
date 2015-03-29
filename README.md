@@ -22,7 +22,7 @@ into the console. If you are using Firefox got to `Developer > Debugger` and the
 
 ## Shorter way
 
-I have already extracted all the links and filenames for Machine Learning course in Tum.
+I have already extracted all the links and filenames for `Machine Learning course in Tum`.
 So in order to download it just do steps `1, 2, 6` from the aforementioned guide.
 
 Or you can just download the archived [zip](https://drive.google.com/file/d/0B_6oHpf9oDHRY2c4U19FRnFRSEk/view?usp=sharing)
